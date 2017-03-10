@@ -7,7 +7,7 @@ This repo contains scripts and data necessary to visualize on a map the interven
 
 **Update**
 
-I moved some results to Tableau. The packaged workbook file (v10.2) is stored in [Releases](https://github.com/andre-wojtowicz/poznan-mp-interventions/releases). Here is a screeshot of a generated dashboard:
+I moved some results to Tableau. The packaged workbook file (v10.2) is stored in [Releases](https://github.com/andre-wojtowicz/poznan-mp-interventions/releases). The online version is available on [Tableau Public](https://public.tableau.com/profile/andrzej.w.jtowicz#!/vizhome/PoznaMPinterventions/Dashboard). Here is a screeshot of a generated dashboard:
 
 ![tableau](https://andre-wojtowicz.github.io/poznan-mp-interventions/tableau.png)
 
